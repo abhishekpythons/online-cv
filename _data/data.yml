@@ -1,31 +1,25 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: true
+    education: true
 
-    # Profile information
     name: Abhishek Verma
     tagline: Space Science Student and Data Science Enthusiast
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.png
 
-    # Sidebar links
     email: abhishekpythons@gmail.com
     phone: 6307803954
     timezone: India/Kolkata
     citizenship: Indian
-    website: abhishekverma.me #do not add http://
+    website: abhishekverma.me
     linkedin: abhishek-verma-659994205    
     github: abhishekpythons
-    telegram: # add your nickname without '@' sign
+    telegram: # your_nickname_without_@
     gitlab:
     bitbucket:
     twitter: '@amrevkehsihba'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    stack-overflow:
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    goodreads:
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
@@ -52,29 +46,32 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I completed my basic education in Jawahar Navodaya Vidhyalaya, Rath.
-      Took Admission in Indian Student of Space Science And Technology(IIST) in Avionics branch after qualifying JEE Advanced.
-      Pursuing Degree in Data Science and Application from Indian Institute Of Technology Madras.
+      I completed my foundational education at Jawahar Navodaya Vidhyalaya, Rath.
+      After qualifying JEE Advanced, I enrolled in the Avionics program at the Indian Institute of Space Science and Technology (IIST).
+      Currently pursuing a degree in Data Science and Applications at the Indian Institute of Technology Madras.
+
 education:
     title: Education
     info:
       - degree: B.Tech in Avionics
-        university: Indian Institute of Space Science And Technology(IIST)
+        university: IIST
         time: 2021 - 2025
         details: |
-          I used to learn basics of Electronics and Communication Engineering here.
-          We used to participate in other space related activities also like satellite building and its operation.
-            - I served as Ground Station incharge of Inspire Sat-1 in Sspace
-            - worked in payload development for quadrupole mass analyzer
-            - Active participation in AI Club 
-      - degree: BS in Data Science and application
-        university: Indian Institute of Technology Madras (IITM)
+          Explored Electronics and Communication Engineering fundamentals.
+          Engaged in space-related activities such as satellite building and operations.
+            - Served as Ground Station incharge for Inspire Sat-1 in Sspace.
+            - Contributed to quadrupole mass analyzer payload development.
+            - Active involvement in the AI Club.
+
+      - degree: BS in Data Science and Application
+        university: IIT Madras
         time: 2021 - 2025
         details: |
-          Learnt Basics of 
-            - Programming and many programming languages like Python and Java. 
-            - Data Structures and Algorithm
-            - Basics of Data Science inclusing Artificial Intelligence and Machine Learning
+          Acquired foundational knowledge in:
+            - Programming languages such as Python and Java.
+            - Data Structures and Algorithms.
+            - Basics of Data Science, including Artificial Intelligence and Machine Learning.
+
 experiences:
     title: Experiences
     info:
@@ -82,57 +79,52 @@ experiences:
         time: 2022 - Present
         company: Sspace Ground Station, IIST
         details: |
-          Inspire Sat - 1 Ground station management like sending command and receiving data from the satellite and also worked in following projects
-            - GS Automation
-            - CFS
+          Managed Inspire Sat - 1 Ground station operations, including command transmission and data reception.
+            - Contributed to GS Automation and CFS projects.
+
       - role: CDH in satellite proposal and building
         time: 2021 - present
         company: Sspace Lab, IIST
         details: |
-          Design and proposed to develop a Quadrupole mass analyzer for studying the composition of Atmosphere 
-          mainly atmosphere of other planets and payload will be usefull in interplanetary missions like sukrayaan
-          other contributions are as follow
-            - Payload Design: Quadrupole mass Analyzer
-            - Setup remote access for Ground station from Sspace Lab to controll antennas remotely
-            - repaired ground station when lightning strikes
-            - induct many juniors in Sspace Lab and Groundstation
+          Designed and proposed a Quadrupole mass analyzer for studying atmospheric composition.
+          Contributions include payload design, remote access setup for Ground station, and team leadership.
 
       - role: Developer
         time: 2018 - present
         company: Self Employed
         details: |
-            Developed Many Web and Android Applications on Python(Django And Flask), Php, and many static pages using vanilla javascript and CSS.
-            - Android App for Key Management
-            - Web Apps for various purposes
-            - Websites of many Clubs like Aero Club and Sspace
+          Developed various Web and Android applications using Python (Django and Flask), PHP, and static pages using vanilla JavaScript and CSS.
+            - Created Android App for Key Management.
+            - Developed Web Apps for various purposes.
+            - Designed websites for clubs like Aero Club and Sspace.
+
 projects:
     title: Projects
     intro: >
-       Some of my Self projects are:
+       Some noteworthy self-initiated projects include:
     assignments:
       - title: Confessinator
         link: "#"
-        tagline: "A responsive website to convey your message to someone secretely."
+        tagline: "Responsive website for anonymous message conveyance."
 
       - title: HoroAbhi
         link: "#"
-        tagline: "A responsive website to access horoscope API and render it aesthetically (Replica of website horoscope.com)."
+        tagline: "Responsive website accessing horoscope API and presenting it aesthetically."
 
       - title: IIST Students
         link: "#"
-        tagline: "Android app for baisc activities of IISt like key managemnet of clubs etc"
+        tagline: "Android app for basic activities of IIST, such as club key management."
 
       - title: 2-D games
         link: "#"
-        tagline: "Made more than 30 2-D games using Pygame."
+        tagline: "Developed over 30 2-D games using Pygame."
 
       - title: 3-D animation
         link: "#"
-        tagline: "MAde and rendered many 3D animations using Blender"
-
+        tagline: "Created and rendered numerous 3D animations using Blender."
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills & Proficiency
 
     toolset:
       - name: Python & Django
