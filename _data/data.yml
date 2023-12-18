@@ -103,25 +103,25 @@ projects:
     intro: >
        Some noteworthy self-initiated projects include:
     assignments:
-      - title: Confessinator
-        link: "#"
-        tagline: "Responsive website for anonymous message conveyance."
+      - title: Conscientia
+        link: "https://www.conscientia.co.in/"
+        tagline: "Contributed in Conscientia'22 website."
 
-      - title: HoroAbhi
-        link: "#"
-        tagline: "Responsive website accessing horoscope API and presenting it aesthetically."
+      - title: Liquid Classification model for Research Paper
+        link: "https://chemflask.abhishekpythons.repl.co/"
+        tagline: "classification of Vitamin B9 and B12 using DataScience."
 
-      - title: IIST Students
-        link: "#"
-        tagline: "Android app for basic activities of IIST, such as club key management."
+      - title: IITM Modern Application Development Project
+        link: "https://iitmprojectslatest.abhishekpythons.repl.co/"
+        tagline: "Grocery shop built on Flask, A Web Framework based on Python."
 
-      - title: 2-D games
-        link: "#"
-        tagline: "Developed over 30 2-D games using Pygame."
+      - title: 3-D animations
+        link: "https://www.youtube.com/watch?v=w9V3BoipOYc"
+        tagline: "Rendered 3-D CGI animations using open source 3-D software Blender ."
 
-      - title: 3-D animation
-        link: "#"
-        tagline: "Created and rendered numerous 3D animations using Blender."
+      - title: 3-D websites
+        link: "https://test.dhanakiist.com/"
+        tagline: "Developed 3-D websites using three.js, A 3-D library for frontend 3-D Applications."
 
 skills:
     title: Skills & Proficiency
