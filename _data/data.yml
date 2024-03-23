@@ -127,7 +127,7 @@ publications:
     title: Publications
     intro: >
         test
-    assignments:
+    publications:
       - title: Deep-Learning-Assisted Discriminative Detection of Vitamin B12 and Vitamin B9 by Fluorescent MoSe2 Quantum Dots
         link: "https://pubs.acs.org/doi/abs/10.1021/acsabm.3c01072"
         tagline: "I did the AI(deep learning), web app and UI/UX part for this research project of out IIST's Chemistry department"
